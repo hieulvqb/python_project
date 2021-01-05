@@ -1,1 +1,1 @@
-from app.models import User, posts
+from app.models import *
